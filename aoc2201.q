@@ -14,7 +14,7 @@ s2:t2[d];
 show s1, s2;
 
 /v2
-d:read0`:aoc2022d1.txt;
+d:read0`:aoc2201.txt;
 t:{
     n: "J"$x;       / numbers
     n

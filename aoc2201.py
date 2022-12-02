@@ -3,7 +3,7 @@ Advent of Code 2022 Day 1
 """
 
 # v1
-xs = (x.split("\n") for x in open("./aoc2022d1.txt").read().split("\n\n"))
+xs = (x.split("\n") for x in open("./aoc2201.txt").read().split("\n\n"))
 
 ys = [sum(int(n) for n in x) for x in xs]
 
