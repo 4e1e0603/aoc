@@ -2,11 +2,18 @@
 Advent of Code 2022 Day 1
 """
 
+# v1
+
 xs = (x.split("\n") for x in open("./aoc2022d1.txt").read().split("\n\n"))
 
 ys = [sum(int(n) for n in x) for x in xs]
 
-t1 = max(ys)
-t2 = sum(sorted(ys, reverse=True)[:3])
+s1 = max(ys)
 
-print(t1, t2)
+print(s1)
+
+# ---
+
+s2 = sum(sorted(ys, reverse=True)[:3])
+
+print(s2)
