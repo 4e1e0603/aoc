@@ -8,7 +8,7 @@ https://adventofcode.com/
   - [D 03/25: &hellip;](https://adventofcode.com/2022/day/3)
   - Solutions of other people:
     - Day 1: https://youtu.be/XpkFsqqYi6A, https://youtu.be/qC4bCtCq4UE
-    - Day 2: https://youtu.be/X1XH774hId0
+    - Day 2: https://youtu.be/X1XH774hId0, https://youtu.be/pQMGilyIQm4
     - Day 3: &hellip;
 
 ### Python
