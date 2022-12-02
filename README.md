@@ -7,9 +7,11 @@ https://adventofcode.com/
   - [D 02/25: Rock Paper Scissors](https://adventofcode.com/2022/day/2)
   - [D 03/25: &hellip;](https://adventofcode.com/2022/day/3)
   - Solutions of other people:
-    - Day 1: [Jonathan Paulson](https://youtu.be/XpkFsqqYi6A), [Mišo](https://youtu.be/qC4bCtCq4UE)
-    - Day 2: [Jonathan Paulson](https://youtu.be/X1XH774hId0), [Mišo](https://youtu.be/pQMGilyIQm4)
+    - Day 1: [Jonathan Paulson](https://youtu.be/XpkFsqqYi6A), [Mišo (sk)](https://youtu.be/qC4bCtCq4UE)
+    - Day 2: [Jonathan Paulson](https://youtu.be/X1XH774hId0), [Mišo (sk)](https://youtu.be/pQMGilyIQm4)
     - Day 3: &hellip;
+
+Comment on my solutions later!
 
 ### Python
 

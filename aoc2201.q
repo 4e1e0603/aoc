@@ -1,4 +1,5 @@
-//Advent of Code 2022 Day 1
+/ Advent of Code 2022 Day 1
+/ work-in-progress
 
 /v1
 d: "1\n2\n3\n\n4\n5\n6\n\n7\n8\n9"; /sample
@@ -11,7 +12,8 @@ t2:{sum 3#desc t x};
 s1:t1[d];
 s2:t2[d];
 
-show s1, s2;
+show s1;
+show s2;
 
 /v2
 d:read0`:aoc2201.txt;
