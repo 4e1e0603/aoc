@@ -1,7 +1,6 @@
 # Advent of Code
 
-- https://adventofcode.com/
-- https://en.wikipedia.org/wiki/Advent_of_Code
+[Advent of Code](https://adventofcode.com/), [Wikipedia](https://en.wikipedia.org/wiki/Advent_of_Code)
 
 - [2022](https://adventofcode.com/2022)
   - [D 01/25: Calorie Counting](https://adventofcode.com/2022/day/1), code: [py](./aoc2201.py); [data](./aoc2201.txt)
