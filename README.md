@@ -1,6 +1,8 @@
 # Advent of Code
 
-[Advent of Code](https://adventofcode.com/), [Wikipedia](https://en.wikipedia.org/wiki/Advent_of_Code)
+*Advent of Code is an annual set of Christmas-themed computer programming challenges that follow an Advent calendar. It has been running since 2015.*
+
+[Website](https://adventofcode.com/), [Wikipedia](https://en.wikipedia.org/wiki/Advent_of_Code)
 
 - [2022](https://adventofcode.com/2022)
   - [D 01/25: Calorie Counting](https://adventofcode.com/2022/day/1), code: [py](./aoc2201.py); [data](./aoc2201.txt)
