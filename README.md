@@ -4,7 +4,7 @@
 - https://en.wikipedia.org/wiki/Advent_of_Code
 
 - [2022](https://adventofcode.com/2022)
-  - [D 01/25: Calorie Counting](https://adventofcode.com/2022/day/1), code: [py](./aoc2201.py); [data](./aoc2201.txt),
+  - [D 01/25: Calorie Counting](https://adventofcode.com/2022/day/1), code: [py](./aoc2201.py); [data](./aoc2201.txt)
   - [D 02/25: Rock Paper Scissors](https://adventofcode.com/2022/day/2), code: [py](./aoc2202.py); [data](./aoc2202.txt)
   - [D 03/25: Rucksack Reorganization](https://adventofcode.com/2022/day/3), code: [py](./aoc2203.py); [data](./aoc2203.txt)
   - Other people solutions (Watch after you finish your solution!):
