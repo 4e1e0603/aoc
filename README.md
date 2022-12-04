@@ -10,10 +10,12 @@
   - [01/25: Calorie Counting](https://adventofcode.com/2022/day/1), code: [py](./aoc2201.py); [data](./aoc2201.txt)
   - [02/25: Rock Paper Scissors](https://adventofcode.com/2022/day/2), code: [py](./aoc2202.py); [data](./aoc2202.txt)
   - [03/25: Rucksack Reorganization](https://adventofcode.com/2022/day/3), code: [py](./aoc2203.py); [data](./aoc2203.txt)
+  - [04/25: Camp Cleanup](https://adventofcode.com/2022/day/4), code: [py](./aoc2204.py); [data](./aoc2204.txt)
   - Other people solutions (Watch after you finish your solution!):
     - 01/25: [Jonathan Paulson (py)](https://youtu.be/XpkFsqqYi6A)
     - 02/25: [Jonathan Paulson (py)](https://youtu.be/X1XH774hId0)
     - 03/25: [Jonathan Paulson (py)](https://youtu.be/nMJUzjr5tQY)
+    - 04/25: [Jonathan Paulson (py)](https://youtu.be/)
 
 Comment on my solutions later!
 
