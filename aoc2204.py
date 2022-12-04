@@ -2,12 +2,10 @@
 Advent of Code 2022 Day 4
 """
 
-data = open("aoc2204.txt").read().strip().split()
-
 xs: list[tuple[set, set]] = []
 
-for d in data:
-    x, y = [tuple(map(int, t.split("-"))) for t in d.split(",")]
+for line in open("aoc2204.txt").read().strip().split():
+    x, y = [tuple(map(int, l.split("-"))) for l in line.split(",")]
     a, b = set(range(x[0], x[1] + 1)), set(range(y[0], y[1] + 1))
     xs.append((a, b))
 

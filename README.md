@@ -15,7 +15,7 @@
     - 01/25: [Jonathan Paulson (py)](https://youtu.be/XpkFsqqYi6A)
     - 02/25: [Jonathan Paulson (py)](https://youtu.be/X1XH774hId0)
     - 03/25: [Jonathan Paulson (py)](https://youtu.be/nMJUzjr5tQY)
-    - 04/25: [Jonathan Paulson (py)](https://youtu.be/)
+    - 04/25: [Jonathan Paulson (py)](https://youtu.be/15qPSEFoR0U)
 
 Comment on my solutions later!
 
